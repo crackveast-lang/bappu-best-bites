@@ -1,0 +1,9 @@
+# Build output — regenerate it, don't track it (5 MB of inlined fonts and images)
+preview-artifact.html
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+node_modules/
