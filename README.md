@@ -6,6 +6,11 @@ Static marketing + storefront page for **Bappu Best Bites Namkeen**
 Selling happens on Amazon: there is no cart on this site. Every product CTA is a
 direct link out to the Amazon listing.
 
+**Live:** https://crackveast-lang.github.io/bappu-best-bites/
+
+Published straight off `main` by GitHub Pages — push to `main` and the live site
+updates within a minute or two.
+
 ## Run it
 
 No build step. Open `index.html`, or serve the folder:
